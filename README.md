@@ -2,6 +2,9 @@
 
 The Smart Coin Classifier is an automated system designed to separate Indian currency coins using image processing and a mechanical arrangement driven by a servo motor. It leverages the SIFT (Scale-Invariant Feature Transform) algorithm to detect and describe local features in images, ensuring accurate coin classification by comparing test and training data.
 
+## Output(working_model_video)
+https://drive.google.com/file/d/1h8Hmvu1AXPrm8oryWmI_4geReZQwES3H/view?usp=sharing
+
 ## Features
 
 - **Image Processing with SIFT**: Uses the SIFT algorithm for precise coin detection and classification.
